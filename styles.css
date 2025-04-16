@@ -1,0 +1,6 @@
+#landing-page{
+    /* background-color: red; */
+    background-image: url("./images/landing-page-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
